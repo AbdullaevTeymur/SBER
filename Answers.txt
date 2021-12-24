@@ -1,0 +1,13 @@
+1. 1 -
+2. true +
+3. 11 -
+4. 3
+5.1 true +
+5.2 false +
+6. 6 +
+7. ("Test1","Test2","Test3") -
+8. NullPointerException -
+9. 10 +
+10. 334 +
+11. -127 -
+12. 1 -
